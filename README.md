@@ -2,7 +2,7 @@
 
 A Python-based system that uses a webcam to monitor a driver's eyes in real-time. It calculates the Eye Aspect Ratio (EAR) to detect signs of drowsiness and triggers a flashing visual and audio alarm to alert the driver, preventing potential accidents.
 
-![Demo GIF of Drowsiness Detection](https://i.imgur.com/your-demo-gif-url.gif)
+![Drowsiness Detection Demo](./demo.gif)
 
 ---
 
